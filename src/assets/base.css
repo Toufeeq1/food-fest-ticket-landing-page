@@ -1,0 +1,14 @@
+/* Color palette from https://github.com/vuejs/theme */
+:root {
+  --primary: #FF6B6B;      
+  --secondary: #FFD93D;   
+  --accent: #4ECDC4;       
+  --background: #F7FFF7;  
+
+  --ticket-bronze: #CD7F32;
+  --ticket-silver: #C0C0C0;
+  --ticket-gold: #FFD700;
+}
+
+
+
